@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
