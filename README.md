@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0344-reverse-string) |
 ## String
 |  |
