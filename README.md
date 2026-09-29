@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0344-reverse-string) |
