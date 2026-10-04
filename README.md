@@ -12,6 +12,7 @@ A collection of LeetCode questions !
 | [0326-power-of-three](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
