@@ -29,6 +29,7 @@ A collection of LeetCode questions !
 | [0231-power-of-two](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1720-decode-xored-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions !
 | [1480-running-sum-of-1d-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1920-build-array-from-permutation](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
