@@ -12,6 +12,7 @@ A collection of LeetCode questions !
 | [0326-power-of-three](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions !
 | [0242-valid-anagram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0709-to-lower-case) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -135,4 +137,12 @@ A collection of LeetCode questions !
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
