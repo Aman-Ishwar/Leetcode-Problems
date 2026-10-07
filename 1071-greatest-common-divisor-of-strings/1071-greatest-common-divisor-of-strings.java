@@ -1,5 +1,5 @@
 class Solution {
-     static int gcd(int x,int y){
+      int gcd(int x,int y){
             while(y!=0){
                 int rem=x%y;
                 x=y;
