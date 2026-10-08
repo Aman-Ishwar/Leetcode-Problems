@@ -10,6 +10,7 @@ A collection of LeetCode questions !
 | [0231-power-of-two](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions !
 | [0191-number-of-1-bits](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1720-decode-xored-array) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions !
 | ------- |
 | [0231-power-of-two](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
