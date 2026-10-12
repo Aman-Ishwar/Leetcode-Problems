@@ -7,6 +7,7 @@ A collection of LeetCode questions !
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0326-power-of-three) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions !
 | [0088-merge-sorted-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions !
 | [0088-merge-sorted-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0344-reverse-string) |
 ## String
