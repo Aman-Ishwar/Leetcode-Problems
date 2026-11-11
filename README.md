@@ -100,6 +100,7 @@ A collection of LeetCode questions !
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions !
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1528-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
