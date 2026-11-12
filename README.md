@@ -20,6 +20,7 @@ A collection of LeetCode questions !
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
 ## Divide and Conquer
@@ -68,6 +69,7 @@ A collection of LeetCode questions !
 | [1528-shuffle-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1720-decode-xored-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
