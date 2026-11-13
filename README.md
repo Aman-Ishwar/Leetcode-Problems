@@ -71,6 +71,7 @@ A collection of LeetCode questions !
 | [1528-shuffle-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1720-decode-xored-array) |
+| [1816-truncate-sentence](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions !
 | [1108-defanging-an-ip-address](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1816-truncate-sentence](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
