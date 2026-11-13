@@ -93,6 +93,7 @@ A collection of LeetCode questions !
 | [0242-valid-anagram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions !
 | [1108-defanging-an-ip-address](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
