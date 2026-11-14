@@ -36,6 +36,7 @@ A collection of LeetCode questions !
 | [0231-power-of-two](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1720-decode-xored-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions !
 | [0001-two-sum](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions !
 | [0088-merge-sorted-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -131,6 +134,7 @@ A collection of LeetCode questions !
 | [0125-valid-palindrome](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
