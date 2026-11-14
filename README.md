@@ -77,6 +77,7 @@ A collection of LeetCode questions !
 | [1929-concatenation-of-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2057-smallest-index-with-equal-value) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions !
 | [0189-rotate-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions !
 | [1816-truncate-sentence](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
