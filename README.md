@@ -75,6 +75,7 @@ A collection of LeetCode questions !
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions !
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1816-truncate-sentence](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
