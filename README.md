@@ -76,6 +76,7 @@ A collection of LeetCode questions !
 | [1920-build-array-from-permutation](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2057-smallest-index-with-equal-value](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2057-smallest-index-with-equal-value) |
 ## Simulation
 |  |
 | ------- |
