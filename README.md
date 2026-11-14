@@ -98,6 +98,7 @@ A collection of LeetCode questions !
 | [0268-missing-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions !
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions !
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1816-truncate-sentence](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aman-Ishwar/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
